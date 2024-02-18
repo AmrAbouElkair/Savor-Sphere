@@ -1,3 +1,4 @@
+import Category from "./components/Category/Category";
 import Footer from "./components/Footer/Footer";
 import Hero from "./components/Hero/Hero";
 import Menu from "./components/Menu/Menu";
@@ -11,6 +12,9 @@ const App = () => (
     </section>
     <section className="xl:padding-l xl:padding-r padding-y !pt-0 max-xl:px-4">
       <Menu />
+    </section>
+    <section className="xl:padding-l xl:padding-r padding-y max-xl:px-4 !pt-0">
+      <Category />
     </section>
     <Footer />
   </main>
