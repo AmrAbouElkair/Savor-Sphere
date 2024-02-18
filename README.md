@@ -7,7 +7,6 @@
   </div>
   </div>
 
-
 ## 📋 <a name="table">Table of Contents</a>
 
 1. ![idea](https://github.com/AmrAbouElkair/LensCrafters/assets/83710148/c8e0ad20-4a63-4fa0-8c4f-6c8368ed0adf) [Introduction](#introduction)
@@ -17,7 +16,6 @@
 5. 🕸️ [Snippets](#snippets)
 6. 📷 [Screenshots](#screenshots)
 7. ![jigsaw (1)](https://github.com/AmrAbouElkair/LensCrafters/assets/83710148/316cd490-12f9-4b15-9977-f0d202c1d150) [Contribute](#contribute)
-
 
 Savor Sphere. is a simple, fully responsive dark mode landing page designed for a restaurant. The website includes basic information about the restaurant's offerings and features a straightforward meal filtering method.
 
@@ -148,8 +146,8 @@ Open [http://localhost:5173/](http://localhost:5173/) in your browser to view th
     @apply sm:pb-24 pb-12;
   }
 }
-
 ```
+
 </details>
 
 <details>
@@ -165,11 +163,9 @@ export default {
   },
   plugins: [],
 };
-
 ```
 
 </details>
-
 
 ## <a name="screenshots"> 📷 Screenshots</a>
 
@@ -180,30 +176,7 @@ export default {
 ## <a name="contribute">![jigsaw](https://github.com/AmrAbouElkair/LensCrafters/assets/83710148/fa2848f1-94b6-4951-9334-fb9ec40c16a7) Contribute</a>
 
 1. Fork the Project
-2. Create your Feature Branch (git checkout -b ``new branch``)
-3. Commit your Changes (git commit -m 'Add some ``commit name``)
-4. Push to the Branch (git push origin ``new branch``)
+2. Create your Feature Branch (git checkout -b `new branch`)
+3. Commit your Changes (git commit -m 'Add some `commit name`)
+4. Push to the Branch (git push origin `new branch`)
 5. Open a Pull Request
-
-## MIT License
-
-Copyright (c) 2024 Amr M.AbouElkair
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
