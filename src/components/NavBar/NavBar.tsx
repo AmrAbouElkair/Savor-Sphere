@@ -15,9 +15,9 @@ const NavBar = () => {
             onClick={() => setNav(!nav)}
           ></i>
           <h1 className="flex justify-center items-center gap-1 sm:mb-0 text-2xl sm:text-3xl px-2 dark:text-white/90 ">
-            Best
+            Savor
             <img src={Burger} className="h-8" alt="BestEats Logo" />
-            <span className="font-bold">Eats</span>
+            <span className="font-bold">Sphere</span>
           </h1>
           <div className="hidden lg:flex justify-center items-center bg-gray-200 rounded-full pr-[10px] ">
             <p className="p-2 bg-black dark:bg-orange-600 text-white rounded-full mr-1">
@@ -68,7 +68,7 @@ const NavBar = () => {
                 onClick={() => setNav(!nav)}
               ></i>
               <h2 className="text-2xl ml-4 dark:text-white">
-                Best <span className="font-bold">Eats</span>
+                Savor <span className="font-bold">Sphere</span>
               </h2>
             </div>
             <div className="hidden max-sm:flex justify-start items-center my-5 ml-3">
