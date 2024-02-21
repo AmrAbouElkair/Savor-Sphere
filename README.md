@@ -1,4 +1,5 @@
-  <div align="center">
+   <h1 align="center">Savor Sphere <img src="https://github.com/AmrAbouElkair/Savor-Sphere/assets/83710148/186b8ebb-5166-4655-8b7f-97a927291b82" width="25" alt="Logo" /> </h1>
+ <div align="center">
   <img src="https://github.com/AmrAbouElkair/Savor-Sphere/assets/83710148/1231a79d-2c99-4c65-80c1-6179ab335560" alt="mainImg"/>
   <div>
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
@@ -90,7 +91,7 @@ Open [http://localhost:5173/](http://localhost:5173/) in your browser to view th
 </details>
 
 <details>
-<summary><code>globals.css</code></summary>
+<summary><code>index.css</code></summary>
 
 ```css
 @tailwind base;
