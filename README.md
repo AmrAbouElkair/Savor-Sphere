@@ -1,4 +1,4 @@
-   <h1 align="center">Best Eats <img src="https://github.com/AmrAbouElkair/Savor-Sphere/assets/83710148/186b8ebb-5166-4655-8b7f-97a927291b82" width="25" alt="Logo" /> </h1>
+   <h1 align="center">Savor Sphere <img src="https://github.com/AmrAbouElkair/Savor-Sphere/assets/83710148/186b8ebb-5166-4655-8b7f-97a927291b82" width="25" alt="Logo" /> </h1>
  <div align="center">
   <img src="https://github.com/AmrAbouElkair/Savor-Sphere/assets/83710148/1231a79d-2c99-4c65-80c1-6179ab335560" alt="mainImg"/>
   <div>
@@ -18,9 +18,9 @@
 6. 📷 [Screenshots](#screenshots)
 7. ![jigsaw (1)](https://github.com/AmrAbouElkair/LensCrafters/assets/83710148/316cd490-12f9-4b15-9977-f0d202c1d150) [Contribute](#contribute)
 
-Best Eats. is a simple, fully responsive dark mode landing page designed for a restaurant. The website includes basic information about the restaurant's offerings and features a straightforward meal filtering method.
+Savor Sphere. is a simple, fully responsive dark mode landing page designed for a restaurant. The website includes basic information about the restaurant's offerings and features a straightforward meal filtering method.
 
-**Here is a live preview for the project _[Best Eats](https://savor-sphere.vercel.app/)_!**
+**Here is a live preview for the project _[Savor Sphere](https://savor-sphere.vercel.app/)_!**
 
 ## <a name="introduction"> ![idea](https://github.com/AmrAbouElkair/LensCrafters/assets/83710148/c8e0ad20-4a63-4fa0-8c4f-6c8368ed0adf) Introduction</a>
 
